@@ -7,5 +7,3 @@ A colorful collection of Minecraft mods to enchance your experience.
 Open source is a fantastic way to collaborate and contribute to the community. 
 
 ---
-
-Happy modding! 🔨
